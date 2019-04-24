@@ -22,4 +22,7 @@ public class MainActivity extends AppCompatActivity {
         String n="qqqq";
         String name="小明";
     }
+    private void setName(){
+
+    }
 }
