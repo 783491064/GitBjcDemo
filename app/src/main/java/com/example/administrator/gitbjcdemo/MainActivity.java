@@ -21,4 +21,5 @@ public class MainActivity extends AppCompatActivity {
         String name="小明";
     }
     private Long l=10000l;
+    private Long ll=10000l;
 }
