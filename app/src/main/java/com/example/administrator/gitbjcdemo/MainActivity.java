@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
         int h=8;
         String s="";
         String n="qqqq";
+        String name="小明";
     }
 }
