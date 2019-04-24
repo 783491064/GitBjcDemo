@@ -10,16 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         int a=1;
-        int b=2;
-        int c=3;
-        int d=4;
-        int e=5;
-        int f=6;
-        int g=7;
-        int h=8;
-        int i=9;
-        String name="小明";
     }
-    private Long l=10000l;
-    private Long ll=10000l;
+
 }
