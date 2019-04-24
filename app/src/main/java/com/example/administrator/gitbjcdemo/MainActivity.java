@@ -9,20 +9,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        int a=1;
-        int b=2;
-        int c=3;
-        int d=4;
-        int e=5;
-        int f=6;
-        int g=7;
-        int i=9;
-        int h=8;
-        String s="";
-        String n="qqqq";
-        String name="小明";
     }
-    private void setName(){
 
-    }
 }
